@@ -3,6 +3,7 @@ void main(){
   var age=25;
   var arr = [3.5, 3.8, 4.0];
   print('My name is $name and my age is $age and my current cgpa is ${arr[1]}');
+  
 //list
   var semester={
     '1':'Level 1 Semester 1',
